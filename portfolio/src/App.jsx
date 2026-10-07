@@ -14,7 +14,7 @@ const projects = [
 const timeline = [
   ['Treasurer', 'ACM Student Chapter, Navrachana University', 'September 2026 – Present'],
   ['Top 40 of 170+ teams', 'AgriTech track, TetraTHON 2026 (screening round), as team leader', '2026'],
-  ['B.Tech, Computer Science and Engineering', 'Navrachana University, 2nd year','9.08 CGPA', '2025 – 2029'],
+  ['B.Tech, Computer Science and Engineering', 'Navrachana University, 2nd year','2025 – 2029'],
 ]
 const skills = [
   ['Languages', 'Python, JavaScript, HTML, CSS, SQL'],
