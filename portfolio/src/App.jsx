@@ -14,7 +14,7 @@ const projects = [
 const timeline = [
   ['Treasurer', 'ACM Student Chapter, Navrachana University', 'September 2026 – Present'],
   ['Top 40 of 170+ teams', 'AgriTech track, TetraTHON 2026 (screening round), as team leader', '2026'],
-  ['B.Tech, Computer Science and Engineering', 'Navrachana University, 2nd year', '2025 – 2029'],
+  ['B.Tech, Computer Science and Engineering', 'Navrachana University, 2nd year','9.08 CGPA', '2025 – 2029'],
 ]
 const skills = [
   ['Languages', 'Python, JavaScript, HTML, CSS, SQL'],
@@ -69,7 +69,7 @@ export default function App() {
           <div><h2 className="h-section">About</h2></div>
           <div>
             <p className="lead">Second-year Computer Science student who builds full-stack web applications with Flask and integrates AI and payment APIs.</p>
-            <p className="body">Led a team through a 32-hour offline hackathon after being selected among the top 40 of 170+ teams in the screening round. Treasurer of the ACM Student Chapter.</p>
+            <p className="body">Led a team through a 32-hour offline hackathon after being selected among the top 40 of 170+. Treasurer of the ACM Student Chapter.</p>
           </div>
         </section>
 
