@@ -3,7 +3,7 @@ import { ShaderGradientCanvas, ShaderGradient } from '@shadergradient/react'
 
 const projects = [
   { name: 'AgriNova', sub: 'Decision support for smallholder farmers', stack: ['Python', 'Flask', 'SQLite', 'JavaScript'], points: [
-    'Built for TetraTHON 2026 (AgriTech track) as team leader and backend developer of team FirstCommit (4 members). Selected among the top 40 of 170+ teams in the screening round, then built the project in the 32-hour offline round at Navrachana University.',
+    'Built for TetraTHON 2026 (AgriTech track) as team leader and backend developer of team FirstCommit (4 members). Selected among the top 40 of 170+ teams, then built the project in the 32-hour online round at Navrachana University.',
     'Mobile-first web app for smallholder farmers with language selection, a farm-details form (crop, district, soil type, sowing date) and a 7-day crop advisory view. Designed it around rule-based, explainable advice, so each recommendation shows the reason behind it.',
     'Prepared a cleaned mandi price dataset (Agmarknet, data.gov.in) in SQLite for a sell, store or transport comparison planner. Deployed the app on Vercel.' ] },
   { name: 'NUV-Nest', sub: 'Smart campus platform', stack: ['Python', 'Flask', 'SQLite', 'JavaScript', 'HTML/CSS'], points: [
